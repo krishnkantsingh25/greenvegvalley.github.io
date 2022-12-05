@@ -1,0 +1,26 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="main.master.cs" Inherits="Green_veg_valley.main" %>
+
+<%@ Register src="header.ascx" tagname="header" tagprefix="uc1" %>
+<%@ Register src="footer.ascx" tagname="footer" tagprefix="uc2" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div>
+         <uc1:header ID="header1" runat="server" />
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        
+        </asp:ContentPlaceHolder>
+    </div>
+       
+        <uc2:footer ID="footer1" runat="server" />
+    </form>
+</body>
+</html>

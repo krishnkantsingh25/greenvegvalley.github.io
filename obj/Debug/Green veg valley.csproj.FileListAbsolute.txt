@@ -1,0 +1,33 @@
+c:\users\krishnkant singh\documents\visual studio 2015\Projects\Green veg valley\Green veg valley\bin\ApplicationInsights.config
+c:\users\krishnkant singh\documents\visual studio 2015\Projects\Green veg valley\Green veg valley\bin\roslyn\csc.exe
+c:\users\krishnkant singh\documents\visual studio 2015\Projects\Green veg valley\Green veg valley\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\krishnkant singh\documents\visual studio 2015\Projects\Green veg valley\Green veg valley\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\krishnkant singh\documents\visual studio 2015\Projects\Green veg valley\Green veg valley\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\krishnkant singh\documents\visual studio 2015\Projects\Green veg valley\Green veg valley\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\krishnkant singh\documents\visual studio 2015\Projects\Green veg valley\Green veg valley\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\krishnkant singh\documents\visual studio 2015\Projects\Green veg valley\Green veg valley\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\krishnkant singh\documents\visual studio 2015\Projects\Green veg valley\Green veg valley\bin\roslyn\System.Collections.Immutable.dll
+c:\users\krishnkant singh\documents\visual studio 2015\Projects\Green veg valley\Green veg valley\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\krishnkant singh\documents\visual studio 2015\Projects\Green veg valley\Green veg valley\bin\roslyn\vbc.exe
+c:\users\krishnkant singh\documents\visual studio 2015\Projects\Green veg valley\Green veg valley\bin\roslyn\VBCSCompiler.exe
+c:\users\krishnkant singh\documents\visual studio 2015\Projects\Green veg valley\Green veg valley\bin\roslyn\VBCSCompiler.exe.config
+c:\users\krishnkant singh\documents\visual studio 2015\Projects\Green veg valley\Green veg valley\bin\Green veg valley.dll.config
+c:\users\krishnkant singh\documents\visual studio 2015\Projects\Green veg valley\Green veg valley\bin\Green veg valley.dll
+c:\users\krishnkant singh\documents\visual studio 2015\Projects\Green veg valley\Green veg valley\bin\Green veg valley.pdb
+c:\users\krishnkant singh\documents\visual studio 2015\Projects\Green veg valley\Green veg valley\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\krishnkant singh\documents\visual studio 2015\Projects\Green veg valley\Green veg valley\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\krishnkant singh\documents\visual studio 2015\Projects\Green veg valley\Green veg valley\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\krishnkant singh\documents\visual studio 2015\Projects\Green veg valley\Green veg valley\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\krishnkant singh\documents\visual studio 2015\Projects\Green veg valley\Green veg valley\bin\Microsoft.AI.Web.dll
+c:\users\krishnkant singh\documents\visual studio 2015\Projects\Green veg valley\Green veg valley\bin\Microsoft.AI.WindowsServer.dll
+c:\users\krishnkant singh\documents\visual studio 2015\Projects\Green veg valley\Green veg valley\bin\Microsoft.ApplicationInsights.dll
+c:\users\krishnkant singh\documents\visual studio 2015\Projects\Green veg valley\Green veg valley\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\krishnkant singh\documents\visual studio 2015\Projects\Green veg valley\Green veg valley\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\krishnkant singh\documents\visual studio 2015\Projects\Green veg valley\Green veg valley\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\krishnkant singh\documents\visual studio 2015\Projects\Green veg valley\Green veg valley\bin\Microsoft.AI.Web.xml
+c:\users\krishnkant singh\documents\visual studio 2015\Projects\Green veg valley\Green veg valley\bin\Microsoft.AI.WindowsServer.xml
+c:\users\krishnkant singh\documents\visual studio 2015\Projects\Green veg valley\Green veg valley\bin\Microsoft.ApplicationInsights.xml
+c:\users\krishnkant singh\documents\visual studio 2015\Projects\Green veg valley\Green veg valley\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\krishnkant singh\documents\visual studio 2015\Projects\Green veg valley\Green veg valley\obj\Debug\Green veg valley.csprojResolveAssemblyReference.cache
+c:\users\krishnkant singh\documents\visual studio 2015\Projects\Green veg valley\Green veg valley\obj\Debug\Green veg valley.dll
+c:\users\krishnkant singh\documents\visual studio 2015\Projects\Green veg valley\Green veg valley\obj\Debug\Green veg valley.pdb
